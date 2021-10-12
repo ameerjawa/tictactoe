@@ -1,2 +1,2 @@
 # tictactoe
-basic two sizes tictactoe game
+basic two sizes tictactoe game maded with JavaScript
